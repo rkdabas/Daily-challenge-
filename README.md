@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/rkdabas/Daily-challenge-/tree/master/0241-different-ways-to-add-parentheses) |
+| [1508-longest-happy-prefix](https://github.com/rkdabas/Daily-challenge-/tree/master/1508-longest-happy-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rkdabas/Daily-challenge-/tree/master/0493-reverse-pairs) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/rkdabas/Daily-challenge-/tree/master/1508-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/rkdabas/Daily-challenge-/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/rkdabas/Daily-challenge-/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
