@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/rkdabas/Daily-challenge-/tree/master/0222-count-complete-tree-nodes) |
 | [0493-reverse-pairs](https://github.com/rkdabas/Daily-challenge-/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
@@ -66,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/rkdabas/Daily-challenge-/tree/master/1508-longest-happy-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/rkdabas/Daily-challenge-/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/rkdabas/Daily-challenge-/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/rkdabas/Daily-challenge-/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
