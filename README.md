@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rkdabas/Daily-challenge-/tree/master/0493-reverse-pairs) |
+| [1294-range-frequency-queries](https://github.com/rkdabas/Daily-challenge-/tree/master/1294-range-frequency-queries) |
 ## Binary Search
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rkdabas/Daily-challenge-/tree/master/0222-count-complete-tree-nodes) |
 | [0493-reverse-pairs](https://github.com/rkdabas/Daily-challenge-/tree/master/0493-reverse-pairs) |
+| [1294-range-frequency-queries](https://github.com/rkdabas/Daily-challenge-/tree/master/1294-range-frequency-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rkdabas/Daily-challenge-/tree/master/0493-reverse-pairs) |
+| [1294-range-frequency-queries](https://github.com/rkdabas/Daily-challenge-/tree/master/1294-range-frequency-queries) |
 ## Merge Sort
 |  |
 | ------- |
@@ -79,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rkdabas/Daily-challenge-/tree/master/0222-count-complete-tree-nodes) |
+## Hash Table
+|  |
+| ------- |
+| [1294-range-frequency-queries](https://github.com/rkdabas/Daily-challenge-/tree/master/1294-range-frequency-queries) |
+## Design
+|  |
+| ------- |
+| [1294-range-frequency-queries](https://github.com/rkdabas/Daily-challenge-/tree/master/1294-range-frequency-queries) |
 <!---LeetCode Topics End-->
