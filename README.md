@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/rkdabas/Daily-challenge-/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/rkdabas/Daily-challenge-/tree/master/0493-reverse-pairs) |
 | [1294-range-frequency-queries](https://github.com/rkdabas/Daily-challenge-/tree/master/1294-range-frequency-queries) |
 ## Binary Search
@@ -44,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/rkdabas/Daily-challenge-/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/rkdabas/Daily-challenge-/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/rkdabas/Daily-challenge-/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/rkdabas/Daily-challenge-/tree/master/0493-reverse-pairs) |
 | [1294-range-frequency-queries](https://github.com/rkdabas/Daily-challenge-/tree/master/1294-range-frequency-queries) |
 ## Merge Sort
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1294-range-frequency-queries](https://github.com/rkdabas/Daily-challenge-/tree/master/1294-range-frequency-queries) |
+## Sorting
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/rkdabas/Daily-challenge-/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
