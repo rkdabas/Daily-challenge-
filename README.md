@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/rkdabas/Daily-challenge-/tree/master/0241-different-ways-to-add-parentheses) |
 | [1508-longest-happy-prefix](https://github.com/rkdabas/Daily-challenge-/tree/master/1508-longest-happy-prefix) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rkdabas/Daily-challenge-/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/rkdabas/Daily-challenge-/tree/master/0241-different-ways-to-add-parentheses) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rkdabas/Daily-challenge-/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Recursion
 |  |
 | ------- |
@@ -32,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/rkdabas/Daily-challenge-/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/rkdabas/Daily-challenge-/tree/master/0493-reverse-pairs) |
 | [1294-range-frequency-queries](https://github.com/rkdabas/Daily-challenge-/tree/master/1294-range-frequency-queries) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rkdabas/Daily-challenge-/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rkdabas/Daily-challenge-/tree/master/0222-count-complete-tree-nodes) |
 | [0493-reverse-pairs](https://github.com/rkdabas/Daily-challenge-/tree/master/0493-reverse-pairs) |
 | [1294-range-frequency-queries](https://github.com/rkdabas/Daily-challenge-/tree/master/1294-range-frequency-queries) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rkdabas/Daily-challenge-/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/rkdabas/Daily-challenge-/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/rkdabas/Daily-challenge-/tree/master/0493-reverse-pairs) |
 | [1294-range-frequency-queries](https://github.com/rkdabas/Daily-challenge-/tree/master/1294-range-frequency-queries) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rkdabas/Daily-challenge-/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -65,14 +70,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/rkdabas/Daily-challenge-/tree/master/1508-longest-happy-prefix) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rkdabas/Daily-challenge-/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## String Matching
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/rkdabas/Daily-challenge-/tree/master/1508-longest-happy-prefix) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rkdabas/Daily-challenge-/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Hash Function
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/rkdabas/Daily-challenge-/tree/master/1508-longest-happy-prefix) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rkdabas/Daily-challenge-/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/rkdabas/Daily-challenge-/tree/master/0406-queue-reconstruction-by-height) |
+## Trie
+|  |
+| ------- |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rkdabas/Daily-challenge-/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 <!---LeetCode Topics End-->
