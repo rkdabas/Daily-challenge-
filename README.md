@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/rkdabas/Daily-challenge-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0648-replace-words](https://github.com/rkdabas/Daily-challenge-/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/rkdabas/Daily-challenge-/tree/master/0676-implement-magic-dictionary) |
 | [1508-longest-happy-prefix](https://github.com/rkdabas/Daily-challenge-/tree/master/1508-longest-happy-prefix) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rkdabas/Daily-challenge-/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Dynamic Programming
@@ -99,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/rkdabas/Daily-challenge-/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/rkdabas/Daily-challenge-/tree/master/0676-implement-magic-dictionary) |
 | [1294-range-frequency-queries](https://github.com/rkdabas/Daily-challenge-/tree/master/1294-range-frequency-queries) |
 ## Design
 |  |
 | ------- |
+| [0676-implement-magic-dictionary](https://github.com/rkdabas/Daily-challenge-/tree/master/0676-implement-magic-dictionary) |
 | [1294-range-frequency-queries](https://github.com/rkdabas/Daily-challenge-/tree/master/1294-range-frequency-queries) |
 ## Sorting
 |  |
@@ -112,5 +115,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/rkdabas/Daily-challenge-/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/rkdabas/Daily-challenge-/tree/master/0676-implement-magic-dictionary) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rkdabas/Daily-challenge-/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0676-implement-magic-dictionary](https://github.com/rkdabas/Daily-challenge-/tree/master/0676-implement-magic-dictionary) |
 <!---LeetCode Topics End-->
