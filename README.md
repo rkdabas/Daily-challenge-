@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/rkdabas/Daily-challenge-/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/rkdabas/Daily-challenge-/tree/master/0677-map-sum-pairs) |
 | [1080-camelcase-matching](https://github.com/rkdabas/Daily-challenge-/tree/master/1080-camelcase-matching) |
+| [1304-longest-happy-string](https://github.com/rkdabas/Daily-challenge-/tree/master/1304-longest-happy-string) |
 | [1508-longest-happy-prefix](https://github.com/rkdabas/Daily-challenge-/tree/master/1508-longest-happy-prefix) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rkdabas/Daily-challenge-/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Dynamic Programming
@@ -133,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1080-camelcase-matching](https://github.com/rkdabas/Daily-challenge-/tree/master/1080-camelcase-matching) |
+## Greedy
+|  |
+| ------- |
+| [1304-longest-happy-string](https://github.com/rkdabas/Daily-challenge-/tree/master/1304-longest-happy-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1304-longest-happy-string](https://github.com/rkdabas/Daily-challenge-/tree/master/1304-longest-happy-string) |
 <!---LeetCode Topics End-->
